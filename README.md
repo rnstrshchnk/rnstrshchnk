@@ -1,16 +1,20 @@
-### Hi there 👋
+**About me**
 
-<!--
-**rnstrshchnk/rnstrshchnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Junior QA Engineer (student of QA course by Vadim Ksendzov);
 
-Here are some ideas to get you started:
+- 📈 I am learning these tools: GitBush, Visual Studio Code, Postman, Android Studio, DBeaver, DevTools, Jira;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I have read the books "Software Testing" by Svyatoslav Kulikov, "A Practitioner's Guide to Software Test Design" by Lee Copeland, "Testing Dot Com" by Roman Savin;
+
+- 💬 Ask me about anything [here](https://t.me/rn_strshchnk).
+
+- 📫 [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
+
+[email]: <mailto:straschenko13@mail.ru>
+[in]: <https://www.linkedin.com/in/rnstrshchnk/>
+[tg]: <https://t.me/rn_strshchnk>
+
+| <a href="https://github.com/rnstrshchnk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rnstrshchnk&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/rnstrshchnk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnstrshchnk&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+![](https://komarev.com/ghpvc/?username=your-github-rnstrshchnk)
