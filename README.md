@@ -1,8 +1,10 @@
 **About me**
 
-- 💼 Junior QA Engineer (student of QA course by Vadim Ksendzov);
+- 💼 Since June 2022 I have been interning on the project capital.com and I work in a private repository.
 
-- 📈 I am learning these tools: GitBush, Visual Studio Code, Postman, Android Studio, DBeaver, DevTools, Jira;
+- 📚 Junior QA Engineer (student of QA course by Vadim Ksendzov);
+
+- 📈 I am learning these tools: GitBush, Visual Studio Code, Postman, Android Studio, DBeaver, DevTools, Jira, Charles? Fiddler
 
 - ❤️ I have read the books "Software Testing" by Svyatoslav Kulikov, "A Practitioner's Guide to Software Test Design" by Lee Copeland, "Testing Dot Com" by Roman Savin;
 
