@@ -2,15 +2,15 @@
 
 - 💼 Since June 2022 I have been interning on the project capital.com and I work in a private repository.
 
-- 📚 Junior QA Engineer (student of QA course by Vadim Ksendzov);
+- 📚 QA Engineer (student of QA course by Vadim Ksendzov);
 
-- 📈 I am learning these tools: GitBush, Visual Studio Code, Postman, Android Studio, DBeaver, DevTools, Jira, Charles? Fiddler
+- 📈 I am learning these tools: GitBush, Visual Studio Code, Postman, Android Studio, DBeaver, DevTools, Jira, Charles, Fiddler, JMeter;
 
-- ❤️ I have read the books "Software Testing" by Svyatoslav Kulikov, "A Practitioner's Guide to Software Test Design" by Lee Copeland, "Testing Dot Com" by Roman Savin;
+- ❤️ I have read the books "Software Testing" by Svyatoslav Kulikov, "A Practitioner's Guide to Software Test Design" by Lee Copeland, "Testing Dot Com" by Roman Savin, "What is testing?" by Olga Nazina;
 
-- 💬 Ask me about anything [here](https://t.me/rn_strshchnk).
+- 💬 Ask me about anything [here](https://t.me/rn_strshchnk);
 
-- 📫 [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
+- 📫 [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
 
 [email]: <mailto:straschenko13@mail.ru>
 [in]: <https://www.linkedin.com/in/rnstrshchnk/>
