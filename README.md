@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Since June 2022 I have been interning on the project capital.com and I work in a private repository.
+- 💼 Since June 2022 I have been interning on the project capital.com and I work in a private repository;
 
 - 📚 QA Engineer (student of QA course by Vadim Ksendzov);
 
